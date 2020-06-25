@@ -1,4 +1,4 @@
-## [Aijuswanaseing](https://en.wikipedia.org/wiki/Aijuswanaseing)
+## Data-Science-Related
 
 A public repository for random topics related to data science
 
